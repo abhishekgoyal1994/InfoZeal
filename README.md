@@ -1,2 +1,3 @@
 # InfoZeal
-Information Retrieval project for making a search engine and comparing tf, tfidf and BM 25.
+Includes Project assignments for Information Retrieval System developed in CGI Python and AJAX. Other languages used include Javascript, CSS and HTML.
+Tools Used: Whoosh and HighCharts.
